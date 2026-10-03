@@ -1,4 +1,4 @@
 displayName = absoluteAquarian Utilities (SerousCommonLib)
 author = absoluteAquarian
 version = 1.0.7
-buildIgnore = Publicizer/*
+buildIgnore = Publicizer/*, .vs\*, *.csproj, *.user, *.md, obj\*, bin\*, lib\*, Properties\*, *.config, .git\*, .github\*, .editorconfig, .gitignore, .gitattributes
